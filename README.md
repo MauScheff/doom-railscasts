@@ -59,10 +59,10 @@ One screenshot per variant (add these files to `./screenshots/`):
 
 The theme is designed with **Google Sans Code** in mind:
 
-- https://github.com/googlefonts/googlesanscode
+- [https://github.com/googlefonts/googlesanscode](https://github.com/googlefonts/googlesans-code)
 
 Optional Doom config:
 
 ```elisp
-(setq doom-font (font-spec :family "Google Sans Code" :size 14))
+(setq doom-font (font-spec :family "Google Sans Code" :size 17.5))
 ```
