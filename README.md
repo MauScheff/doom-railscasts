@@ -19,11 +19,11 @@ This repo includes three variants that only differ by background color:
 One screenshot per variant (add these files to `./screenshots/`):
 
 - `doom-railscasts`
-  - ![doom-railscasts](./screenshots/doom-railscasts.png)
+  - ![doom-railscasts](./screenshots/original.png)
 - `doom-railscasts-one`
-  - ![doom-railscasts-one](./screenshots/doom-railscasts-one.png)
+  - ![doom-railscasts-one](./screenshots/one.png)
 - `doom-railscasts-darker`
-  - ![doom-railscasts-darker](./screenshots/doom-railscasts-darker.png)
+  - ![doom-railscasts-darker](./screenshots/darker.png)
 
 ## Installation (Doom Emacs)
 
