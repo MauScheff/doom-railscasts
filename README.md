@@ -16,8 +16,6 @@ This repo includes three variants that only differ by background color:
 
 ## Screenshots
 
-One screenshot per variant (add these files to `./screenshots/`):
-
 - `doom-railscasts`
   - ![doom-railscasts](./screenshots/original.png)
 - `doom-railscasts-one`
