@@ -77,6 +77,7 @@
 
   ;;;; Base theme face overrides
   ((cursor :background base7)
+   ;; (hl-line :background base1)
    (hl-line :background base1)
    (region :background region :foreground region-fg)
    (line-number :foreground base2)

@@ -78,12 +78,14 @@
 
   ;;;; Base theme face overrides
   ((cursor :background base7)
+   ;; (hl-line :background base1)
    (hl-line :background base1)
    (region :background region :foreground region-fg)
    (line-number :foreground base2)
    (line-number-current-line :foreground fg)
    (show-paren-match :background (doom-darken selection 0.15) :foreground base7 :weight 'bold)
-
+   (completions-common-part :foreground "#333333")
+   (completions-first-difference :foreground "#333333")
    (mode-line :background (doom-darken bg-alt 0.1) :foreground fg)
    (mode-line-inactive :background bg-alt :foreground base5)
    (tooltip :background (doom-darken bg-alt 0.15) :foreground fg)
